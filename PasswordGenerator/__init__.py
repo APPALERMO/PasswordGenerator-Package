@@ -34,7 +34,7 @@ class PasswordGenerator():
             print("{}| {}".format(i, PasswordGenerator(self.length, self.difficulty)))
 
 
-    def createWordList(self, name: str, amount: int, time_spent: bool):
+    def createWordList(self, name: str, amount: int, time_spent: bool = False):
         file = open(name, "w")
         file.close()
 
