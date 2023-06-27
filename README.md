@@ -4,4 +4,4 @@ This is a Password Generator Package for Python Projects. You can create a passw
 You can create a consegutive series of x passwords. In the end you can create a file with x password and say the time taken to write them.
 <br>
 <br>
-For info look at the my siteewb: https://appalermo.github.io/
+For info look at the my web site: https://appalermo.github.io/
